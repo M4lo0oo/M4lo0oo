@@ -9,6 +9,6 @@ print(f'Follow {m4lo0oo} on Github')
 ```json
 {
   "description": "Developer",
-  "skills": ["Python", "Lua", "HTML/CSS", "JavaScript", "C++"]
+  "skills": ["Python", "Luau", "C++", "JavaScript"]
 }
 ```
